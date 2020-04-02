@@ -1,0 +1,12 @@
+{
+  "name": "TGL",
+  "version": "1.0.0",
+  "description": "Text graphics library for NodeJS",
+  "main": "index.js",
+  "repository": "https://github.com/brooswit/TGL",
+  "author": "John <jwinstead@launchdarkly.com>",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "^0.1.81"
+  }
+}
